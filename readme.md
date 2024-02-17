@@ -32,6 +32,7 @@ The system outputs personalized episode recommendations for users, indicated by 
 Deepak Khatri:
 I focused on processing episodes and utterances from CSV files, ensuring data was clean and ready for further analysis. This involved extensive preprocessing to refine the data. For the recommendation feature, I developed a system using the TF-IDF matrix derived from the cleaned utterances, enabling podcast recommendations based on episode ID, and delivering top N suggestions effectively.
 
+
 Vikram:
 Mainly worked on EDA part.
 ---
