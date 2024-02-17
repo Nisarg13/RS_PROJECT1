@@ -35,6 +35,6 @@ I focused on processing episodes and utterances from CSV files, ensuring data wa
 
 Vikram:
 
-     Mainly worked on EDA part.
+Mainly worked on EDA part.
 ---
 
